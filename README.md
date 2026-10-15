@@ -121,3 +121,6 @@ This repository presents my own SQL solutions for learning and portfolio purpose
 **نویسنده:** Sylvia Moestl Vasilik
 
 این مخزن شامل راه‌حل‌های شخصی من برای اهداف آموزشی و ساخت نمونه‌کار است و متن سؤال‌های کتاب را بازنشر نمی‌کند.
+
+<img width="411" height="530" alt="Screenshot 0334" src="https://github.com/user-attachments/assets/d43e9d8a-01c5-4dcd-9fa6-d3a7a03632c6" />
+
